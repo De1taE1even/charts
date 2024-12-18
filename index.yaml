@@ -8267,9 +8267,11 @@ entries:
     version: 1.2.0
   - annotations:
       catalog.cattle.io/certified: rancher
-      catalog.cattle.io/hidden: "false"
+      catalog.cattle.io/display-name: Rancher Backups CRD
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: rancher-backup-crd
     apiVersion: v2
     appVersion: 1.0.4
     created: "2022-02-25T11:29:45.928873525+05:30"

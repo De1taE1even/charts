@@ -8267,7 +8267,7 @@ entries:
     version: 1.2.0
   - annotations:
       catalog.cattle.io/certified: rancher
-      catalog.cattle.io/hidden: "true"
+      catalog.cattle.io/hidden: "false"
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/release-name: rancher-backup-crd
     apiVersion: v2
